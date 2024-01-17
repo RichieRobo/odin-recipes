@@ -1,2 +1,2 @@
 # odin-recipes
-This project will give me en opportunity to test the knowledge I have acquired so far in the odin project. Namely how to set up an html website with relative and absolute links.
+During this project I wa sable to showcase the base level coding I have learend so far through a website that consisted of 3 of my favourite recipes!
