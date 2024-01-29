@@ -1,0 +1,33 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(142, 138, 138);
+}
+
+body {
+    text-align: center;
+    color: whitesmoke;
+}
+
+h1 {
+    font-size: 60px;
+    color: black;
+}
+
+div {
+    color:whitesmoke;
+}
+
+
+.meth {
+    text-align: left;
+}    
+
+
+h3 {
+    color: greenyellow;
+}
+
+
+
+
+
