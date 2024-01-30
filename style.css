@@ -1,0 +1,17 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    background-color:rgb(142, 138, 138);
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+a {
+    color: greenyellow;
+    font-size: 30px;
+}
+
+
+
